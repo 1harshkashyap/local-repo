@@ -7,6 +7,6 @@ int main(){
     printf("ENTER SECOND NO:");
     scanf("%d",&b);
     
-    printf("ADDITION OF GIVEN NOS:%d",a+b);
+    printf("ADDITION OF GIVEN NOS : %d",a+b);
     return 10;
 }
